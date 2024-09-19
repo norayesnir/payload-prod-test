@@ -2,6 +2,7 @@
   "name": "payload-prod-test",
   "description": "A blank template to get started with Payload",
   "version": "1.0.0",
+  "type": "module",
   "main": "dist/server.js",
   "license": "MIT",
   "scripts": {
